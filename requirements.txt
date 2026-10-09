@@ -1,0 +1,2 @@
+# The only third-party runtime dependency. Everything else uses Python's standard library.
+pypdf==6.20.0

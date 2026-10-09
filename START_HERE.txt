@@ -1,0 +1,23 @@
+PERSONAL LIBRARY INDEXER
+
+1. Extract the ZIP completely.
+2. Install Python 3.10 or newer from https://www.python.org/downloads/
+   Python 3.12 is recommended. Include Tcl/Tk and Add Python to PATH.
+3. Double-click start_windows.bat.
+   First setup needs Internet to install the PDF-reading dependency.
+4. Click Try sample books. Expected result: 6 books, 3 PDF, 3 EPUB.
+5. Search for python, or filter by genre / format, then export a CSV.
+
+UPLOAD TO GITHUB
+
+Open https://github.com/new and create personal-library-indexer.
+Upload the CONTENTS of this clean extracted project folder.
+Keep app.py and README.md at the repository's top level.
+Upload the extracted source files, not only the ZIP file.
+Do not upload generated virtual environments or your own personal books.
+
+Full setup and evaluation instructions: README.md
+Step-by-step GitHub guide: docs/GITHUB_UPLOAD.md
+Simple project explanation and viva notes: docs/PROJECT_EXPLANATION.md
+
+The evaluator downloads your code from GitHub and runs it on their computer.
